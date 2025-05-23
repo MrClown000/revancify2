@@ -30,5 +30,13 @@
             "json": "https://raw.githubusercontent.com/kitadai31/revanced-patches-android6-7/refs/heads/revanced-extended/patches.json",
             "version": null
         }
+    },
+    {
+        "source": "ReVancedExperiments",
+        "repository": "Aunali321/ReVancedExperiments",
+        "api": {
+            "json": "https://raw.githubusercontent.com/kitadai31/revanced-patches-android6-7/refs/heads/revanced-extended/patches.json",
+            "version": null
+        }
     }
 ]
